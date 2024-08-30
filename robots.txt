@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ncaaqu.github.io/sitemap/sitemap.mjK.gz
