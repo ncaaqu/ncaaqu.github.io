@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ncaaqu.csgad.com/HCQ/sitemap.xml.gz
